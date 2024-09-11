@@ -11,6 +11,7 @@
 
 
 本リポジトリではVQAのうち、
-*基底状態を求める量子変分固有値ソルバー（Variational Quantum Eigensolver, VQE）の基本的なコード
-*Barren plateauを確認するコード
+* 基底状態を求める量子変分固有値ソルバー（Variational Quantum Eigensolver, VQE）の基本的なコード
+* Barren plateauを確認するコード
+
 を作成している。

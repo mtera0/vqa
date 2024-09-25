@@ -21,10 +21,10 @@
 | Python                | 3.9.12       |
 | matplotlib                | 3.6.2       |
 | numpy                | 1.21.6       |
-| scipy                | 1.7.3       |
 | qulacs                | 0.5.5       |
 | qulacsvis                | 0.4.0       |
 | quspin                | 0.3.6       |
+| scipy                | 1.7.3       |
 
 ## 3.開発環境構築方法
 
